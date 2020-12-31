@@ -77,7 +77,16 @@ Except for the CPLD, comparison types can also be taken.
 
 # PCB
 
-!https://www.pcbway.com/project/shareproject/EasyGate1541.html](https://www.pcbway.com/project/img/images/frompcbway.png)
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/EasyGate1541.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/EasyGate1541.html)
+
+
+
+
+If you liked my project, I would be very happy about a small coffee donation.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R62T6RN)
 
 
 
