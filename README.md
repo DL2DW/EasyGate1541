@@ -1,6 +1,6 @@
 # DEasyGate1541
 
-![](D:\github\EasyGate1541\Images\EasyGate1541.jpg)
+![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541.jpg)
 
 
 
@@ -16,7 +16,7 @@ The board itself is quite simple in construction. It consists basically only of 
 
 The whole then in the dimensions of a 40pin DIP IC. Since everything was soldered on the back, the front is "clean".
 
-![](D:\github\EasyGate1541\Images\EasyGate1541_Top.jpg)
+![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_Top.jpg)
 
 
 
@@ -32,7 +32,7 @@ And finally there is a Write LED, which always lights up when a write access tak
 
 If you don't want these LEDs, you can simply omit them. They are not needed for operation.
 
-![](D:\github\EasyGate1541\Images\EasyGate1541_Bottom.jpg)
+![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_Bottom.jpg)
 
 
 
