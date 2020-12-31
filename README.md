@@ -75,6 +75,12 @@ Except for the CPLD, comparison types can also be taken.
 
 
 
+# PCB
+
+!https://www.pcbway.com/project/shareproject/EasyGate1541.html](https://www.pcbway.com/project/img/images/frompcbway.png)
+
+
+
 # License
 
 The contents of this repository is released under the following license:
