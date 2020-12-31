@@ -1,4 +1,4 @@
-# DEasyGate1541
+# EasyGate1541
 
 ![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541.jpg)
 
