@@ -78,7 +78,7 @@ The easiest and cheapest way to upload the firmware via JTAG is a FT232H module.
 
 I recommend the following manual: https://github.com/1c3d1v3r/neatPLA/tree/master/programming
 
-There you will also find the links to the xc3sporg software and the flashing procedure. The manual can also be used for the EasyGate1541. Only the connection of the FT242H module is different. And the JED file from my repository must be used.
+There you will also find the links to the xc3sporg software and the flashing procedure. The manual can also be used for the EasyGate1541. Only the connection of the FT232H module is different. And the JED file from my repository must be used.
 
 
 
