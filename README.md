@@ -36,7 +36,17 @@ If you don't want these LEDs, you can simply omit them. They are not needed for 
 
 
 
-The firmware is available as SVF file and can be imported with a JTAG programmer. A simple SVF player is sufficient for this. I simply put the JTAG interface on the free unused PINs. These are not connected on the board of the 1541.
+Where which LED color is used, I leave to personal taste. As a "serving suggestion" I offer the following graphic, according to which I have provided the LEDs:
+
+
+
+![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_LEDs.jpg)
+
+
+
+## Firmware flashing
+
+The firmware is available as SVF, XSF and JED file and can be imported with a JTAG programmer. A simple SVF player is sufficient for this. I simply put the JTAG interface on the free unused PINs. These are not connected on the board of the 1541.
 
 The easiest way is to put the whole thing on a breadboard and wire it up as follows:
 
@@ -52,7 +62,23 @@ The easiest way is to put the whole thing on a breadboard and wire it up as foll
 
 The 5V is supplied via a power supply and then the JTAG interface is connected according to the above mentioned assignment. Then flash the SVF file and you are done.
 
-After that the replacement chip can be plugged into the floppy. Done!
+After that the replacement chip can be plugged into the floppy.
+
+
+
+For a better overview, here is an illustration of how to connect the whole thing on a breadboard:
+
+
+
+![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_JTAG.jpg)
+
+
+
+The easiest and cheapest way to upload the firmware via JTAG is a FT232H module. This module is available at AliExpress for about $7. With this module and the software xc3sprog the JED file can be flashed very easily.
+
+I recommend the following manual: https://github.com/1c3d1v3r/neatPLA/tree/master/programming
+
+There you will also find the links to the xc3sporg software and the flashing procedure. The manual can also be used for the EasyGate1541. Only the connection of the FT242H module is different. And the JED file from my repository must be used.
 
 
 
